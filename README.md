@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 👋 Hey, I'm Joshua!
 
-I'm a fullstack developer who loves turning ideas into real, working software — fast. From AI integrations to mobile apps, I build modern solutions with a focus on experimentation, iteration, and impact.
+I’m a fullstack developer who loves turning ideas into real, working software quickly. From AI integrations to mobile apps, I build modern solutions with a focus on experimentation, iteration, and impact.
 
 Currently, I'm working on several projects, most of which are still in development, including:
 - **PubGolf App** – a gamified bar crawl app with AI-generated routes and TikTok-first branding
