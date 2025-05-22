@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 I’m a fullstack developer who loves turning ideas into real, working software quickly. From AI integrations to mobile apps, I build modern solutions with a focus on experimentation, iteration, and impact.
 
 Currently, I'm working on several projects, most of which are still in development, including:
-- **PubGolf App** – a gamified bar crawl app with AI-generated routes and TikTok-first branding
-- **Create My Logo** – AI-powered logo generation platform (Stripe, Firebase, OpenAI)
-- **Prodify** – a product recognition tool built for TikTok Shop sellers, using OpenAI's vision models to identify products
+- **PubGolf App** – a gamified bar crawl app with AI-generated routes and TikTok-first branding https://www.pubgolf-app.nl
+- **Elevate360** – an AI-powered self-improvement app that helps users achieve their goals with personalized roadmaps made by coaching agents. https://elevate360-app.com
+- **Prodify** – a product recognition tool built for TikTok Shop sellers, using OpenAI's vision models to identify products https://prodify-app.com
 - **DemoSolar** – an AI-powered multi-agent system for solar panel companies that automates customer intake using Azure OpenAI, reducing acquisition costs through intelligent chat interactions
 
 These are ongoing experiments to push boundaries, learn fast, and launch smarter.
